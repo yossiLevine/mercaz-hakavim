@@ -1,0 +1,2 @@
+# mercaz-hakavim
+all automation
